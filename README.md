@@ -2,7 +2,7 @@
  Weather app with OpenWeatherMap Api 
 
 ## Description 
-This a Weather app written Flutter. This app uses OpenWeatherMap Api for weather data
+This a Weather app written in Flutter. This app uses OpenWeatherMap Api for weather data
 
 ### Features
 - Search for city names
@@ -18,7 +18,7 @@ This a Weather app written Flutter. This app uses OpenWeatherMap Api for weather
 [Open Web app](https://weather-flutter-a5921.web.app "Web App")
 
 - Open in mobile device for best performance
-- It may takes about 30 seconds run for the first time
+- It may takes about 30 seconds to run for the first time
 
 
 
