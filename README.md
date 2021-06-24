@@ -11,7 +11,7 @@ This a Weather app written Flutter. This app uses OpenWeatherMap Api for weather
 
 ## Screenshots
 
-<img src="/preview.png"/>
+<img src="/preview.jpg"/>
 
 ## Web App
 
