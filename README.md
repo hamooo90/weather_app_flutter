@@ -18,7 +18,7 @@ This is a Weather app written in Flutter that uses OpenWeatherMap Api for weathe
 [Open Web app](https://weather-flutter-a5921.web.app "Web App")
 
 - Open in mobile device for best performance
-- It may takes about 30 seconds to run for the first time
+- It may takes about 10 seconds to run for the first time
 
 
 
